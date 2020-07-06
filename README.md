@@ -52,6 +52,13 @@ Canal ruidoso para 3 dB
 
 4) Graficar la densidad espectral de potencia de la señal con el método de Welch (SciPy), antes y después del canal ruidoso.
 
+A continuación se muestra la densidad espectral de potencia de la señal antes del canal ruidoso.
+![PSD0](PSD0.png)
+
+Una vez obtenida obtenida la densidad espectral de potencia de la señal antes del canal ruidoso, se porcede a realizar la obtención de la densidad espectral de potencia de la señal después del canal ruidoso, para ello se muestra nada más la gráfica para un SNR de -2 dB.
+![PSD1](PSD1.png)
+
+Finalmente es posible visualizar las restantes densidad espectral de potencia después del canal ruidoso en las imagenes PSD2.png, PSD3.png, PSD4.png, PSD5.png y PSD6.png, cabe señalar que es basicamente la misma densidad de potencia, sin embargo varía levemente la atenuación.
 
 5)  Demodular y decodificar la señal y hacer un conteo de la tasa de error de bits (BER, bit error rate) para cada nivel SNR.
 
