@@ -2,6 +2,7 @@
 Solución Tarea 4 B63761
 
 1) Crear un esquema de modulación BPSK para los bits presentados. Esto implica asignar una forma de onda sinusoidal normalizada (amplitud unitaria) para cada bit y luego una concatenación de todas estas formas de onda.
+![onda](onda.png)
 
 
 2) Calcular la potencia promedio de la señal modulada generada.
