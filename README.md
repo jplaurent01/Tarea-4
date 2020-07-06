@@ -63,16 +63,27 @@ Finalmente es posible visualizar las restantes densidad espectral de potencia de
 5)  Demodular y decodificar la señal y hacer un conteo de la tasa de error de bits (BER, bit error rate) para cada nivel SNR.
 
 Al demodular y decodificar la señal para un umbral de cero, ya que el producto interno de -sin(x) y sin(x) es cero sin ruido, se obtiene los siguiente:
+
 *tasa de error de bits para -7 dB:  0.0013
+
 *tasa de error de bits para -6 dB:  0.0001
+
 *tasa de error de bits para -5 dB:  0.0
+
 *tasa de error de bits para -4 dB:  0.0
+
 *tasa de error de bits para -3 dB:  0.0
+
 *tasa de error de bits para -2 dB:  0.0
+
 *tasa de error de bits para -1 dB:  0.0
+
 *tasa de error de bits para 0 dB:  0.0
+
 *tasa de error de bits para 1 dB:  0.0
+
 *tasa de error de bits para 2 dB:  0.0
+
 *tasa de error de bits para 3 dB:  0.0
 
 6) Graficar BER versus SNR.
