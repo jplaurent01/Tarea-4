@@ -2,8 +2,12 @@
 Solución Tarea 4 B63761
 
 1) Crear un esquema de modulación BPSK para los bits presentados. Esto implica asignar una forma de onda sinusoidal normalizada (amplitud unitaria) para cada bit y luego una concatenación de todas estas formas de onda.
+
+En la siguiente imagen se observa la forma de onda de la portadora de 5000 Hz.
 ![onda](onda.png)
 
+Con base en la onda sinusoidal vista anteriormente, se procede a realizar el esquema de modulación BPSK para los bit del archivo bits10k.csv, con los cuales se obtiene la siguiente señal modulada  para BPSK.
+![Tx](Tx.png)
 
 2) Calcular la potencia promedio de la señal modulada generada.
 
