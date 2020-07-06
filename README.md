@@ -14,6 +14,40 @@ Se obtiene como potencia promedia 0.4900009800019598 W de la señal modulada gen
 
 3) Simular un canal ruidoso del tipo AWGN (ruido aditivo blanco gaussiano) con una relación señal a ruido (SNR) desde -2 hasta 3 dB.
 
+Para la simulación del canal ruidoso del tipo AWGN, se utiliza una relación señal a ruido (SNR) desde -7 hasta 3 dB, ya que la modulación BPSK, es muy robusta y se pretende obtener a partir de dicho intervalo cierto grado de error al transmitir bits.
+
+![Rx14](Rx14.png)
+Canal ruidoso para -7 dB
+
+![Rx13](Rx13.png)
+Canal ruidoso para -6 dB
+
+![Rx12](Rx12.png)
+Canal ruidoso para -5 dB
+
+![Rx11](Rx11.png)
+Canal ruidoso para -4 dB
+
+![Rx10](Rx10.png)
+Canal ruidoso para -3 dB
+
+![Rx1](Rx1.png)
+Canal ruidoso para -2 dB
+
+![Rx2](Rx2.png)
+Canal ruidoso para -1 dB
+
+![Rx3](Rx3.png)
+Canal ruidoso para 0 dB
+
+![Rx4](Rx4.png)
+Canal ruidoso para 1 dB
+
+![Rx5](Rx5.png)
+Canal ruidoso para 2 dB
+
+![Rx6](Rx6.png)
+Canal ruidoso para 3 dB
 
 
 4) Graficar la densidad espectral de potencia de la señal con el método de Welch (SciPy), antes y después del canal ruidoso.
