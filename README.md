@@ -5,12 +5,11 @@ Solución Tarea 4 B63761
 
 En la siguiente imagen se observa la forma de onda de la portadora de 5000 Hz.
 ![onda](onda.png)
-
 Con base en la onda sinusoidal vista anteriormente, se procede a realizar el esquema de modulación BPSK para los bit del archivo bits10k.csv, con los cuales se obtiene la siguiente señal modulada  para BPSK.
 ![Tx](Tx.png)
 
 2) Calcular la potencia promedio de la señal modulada generada.
-
+Se obtiene como potencia promedia 0.4900009800019598 W de la señal modulada generada por BPSK. 
 
 3) Simular un canal ruidoso del tipo AWGN (ruido aditivo blanco gaussiano) con una relación señal a ruido (SNR) desde -2 hasta 3 dB.
 
