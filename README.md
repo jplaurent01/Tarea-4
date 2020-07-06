@@ -9,6 +9,7 @@ Con base en la onda sinusoidal vista anteriormente, se procede a realizar el esq
 ![Tx](Tx.png)
 
 2) Calcular la potencia promedio de la señal modulada generada.
+
 Se obtiene como potencia promedia 0.4900009800019598 W de la señal modulada generada por BPSK. 
 
 3) Simular un canal ruidoso del tipo AWGN (ruido aditivo blanco gaussiano) con una relación señal a ruido (SNR) desde -2 hasta 3 dB.
