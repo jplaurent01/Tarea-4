@@ -76,6 +76,7 @@ tasa de error de bits para 2 dB:  0.0
 tasa de error de bits para 3 dB:  0.0
 
 6) Graficar BER versus SNR.
+
 Finalmente se obtiene al realizar el contraste entre BER versus SNR la siguiente curva
 ![BERVSSNR](BERVSSNR.png)
 
